@@ -1,3 +1,1 @@
-# README
-
-swavyast.github.io
+# swavyast.github.io
